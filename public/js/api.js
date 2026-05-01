@@ -5,7 +5,7 @@
 // │  DEMO_MODE = true  →  Funciona SIN servidor backend     │
 // │  DEMO_MODE = false →  Usa el servidor Express real      │
 // └─────────────────────────────────────────────────────────┘
-const DEMO_MODE = true;
+const DEMO_MODE = false;
 
 // ─── Datos mock para demo ─────────────────────
 const DEMO_USERS = {
